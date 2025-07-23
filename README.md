@@ -111,7 +111,29 @@ src/
 
   App.js              # Main application component
   index.js            # Application entry point
+
+Sequence and Design Class Diagram/
+  ├── *.jpg           # Sequence and class diagrams (image format)
+  └── Xml file/*.xml  # Sequence and class diagrams (draw.io XML format)
 ```
+
+## Sequence and Class Diagrams
+
+The `Sequence and Design Class Diagram` folder contains detailed diagrams illustrating the application's architecture and workflows. Each diagram is available in both image (`.jpg`) and editable draw.io (`.xml`) formats:
+
+- **Design Class Diagram**: Overview of the main classes and their relationships
+- **Add Recipe**: Sequence for adding a new recipe
+- **Add Review**: Sequence for submitting a review
+- **Bookmark Recipe**: Sequence for bookmarking a recipe
+- **Manage User Generated Content**: Moderation and management flow
+- **Rate Recipe**: Sequence for rating a recipe
+- **Recipe Recommendation**: AI-powered recommendation flow
+- **Search Recipe**: Sequence for searching recipes
+- **Share Recipe**: Sequence for sharing a recipe
+- **User Management**: User registration, login, and profile management
+- **View Recipe**: Sequence for viewing recipe details
+
+You can open the `.xml` files in [draw.io](https://app.diagrams.net/) for editing or export.
 
 ## API Integration
 The frontend communicates with the backend through `src/screens/APIservices.js`. Key integrations include:
