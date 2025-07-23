@@ -3,7 +3,28 @@
 ## Overview
 This is the frontend repository for FlavoGen, an innovative recipe-sharing platform. Built with React.js, it provides a modern and intuitive user interface for recipe sharing and discovery. The frontend communicates with our [Django backend](https://github.com/M-Husnain-Ali/FlavoGen-AI-Powered-Recipe-Sharing-Backend) to deliver a full-featured recipe sharing experience.
 
-## Features
+## **Key Features**
+
+### 🛡 **User Authentication**
+- Secure **registration and login** system
+- **Access control** ensures only registered users can interact with the platform
+
+### 📖 **Recipe Management**
+- **Create, share, and manage** your favorite recipes
+- **Browse and explore** a diverse collection of user-submitted recipes
+- **User-friendly recipe submission form** for seamless uploads
+
+### 🔥 **User Engagement**
+- **Rate and comment** on recipes to share feedback
+- **Bookmark favorite recipes** for quick access
+- **Submit feedback** via a dedicated form for continuous improvement
+
+### 🧠 **Smart Search & AI Assistance**
+- **Advanced search functionality** for easy recipe discovery
+- **AI-powered chatbot** for instant recipe recommendations and cooking tips
+
+### 🎛 **Admin Dashboard**
+- Comprehensive **user and content management** for platform moderation
 
 ### 🎨 User Interface
 - Modern, responsive design
